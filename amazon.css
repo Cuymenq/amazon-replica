@@ -1,0 +1,47 @@
+.h3 {
+    font-size: 40px;
+}
+
+.logo {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.sign-text {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(211, 211, 211, 0.308);
+    border-width: 2px;
+
+}
+
+.new-account {
+    text-align: center;
+}
+
+.pass {
+    max-width: 250px;
+    margin:0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footnote-stuff {
+    max-width: 1200px;
+    margin:0 auto;
+    padding: 0 20px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.helpful-link{
+    margin: 0 15px;
+}
+
+a:link { text-decoration: none; }
+
+
